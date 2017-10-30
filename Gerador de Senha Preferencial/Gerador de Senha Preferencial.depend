@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509364831 source:/home/marcos/Área de Trabalho/Gerador de Senha Preferencial/biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1509364220 /home/marcos/Área de Trabalho/Gerador de Senha Preferencial/biblioteca.h
+
+1509364220 source:/home/marcos/Área de Trabalho/Gerador de Senha Preferencial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
